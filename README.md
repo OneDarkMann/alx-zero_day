@@ -1,2 +1,2 @@
 First class
-edited
+edited/
